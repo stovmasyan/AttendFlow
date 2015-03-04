@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="age_req_background">#fff5f5f5</color>
+    <color name="cash_number">#ff3c6712</color>
+    <color name="confirm_text_header">#ff111111</color>
+    <color name="confirm_text">#ff525151</color>    
+    <color name="confirm_button">#ff8ec948</color>
+    <color name="separator">#ffd1d1d1</color>
+    
+    
+</resources>
